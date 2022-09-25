@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-24T20:56:37Z" name="Suite" finished-at="2022-09-24T20:56:52Z" duration-ms="15010">
+    <groups>
+    </groups>
+    <test started-at="2022-09-24T20:56:37Z" name="Test" finished-at="2022-09-24T20:56:52Z" duration-ms="15010">
+      <class name="testcases.LaunchChrome">
+        <test-method signature="launchB()[pri:1, instance:testcases.LaunchChrome@76494737]" started-at="2022-09-24T20:56:37Z" name="launchB" finished-at="2022-09-24T20:56:51Z" duration-ms="13763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchB -->
+        <test-method signature="quitB()[pri:2, instance:testcases.LaunchChrome@76494737]" started-at="2022-09-24T20:56:51Z" name="quitB" finished-at="2022-09-24T20:56:52Z" duration-ms="1217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitB -->
+      </class> <!-- testcases.LaunchChrome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
